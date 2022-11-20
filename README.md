@@ -1,3 +1,3 @@
 # Bitmap-Math-Tutorial
 
-Math for Concentrated Liquidity AMM Bitmaps!
+Bitmap walkthrough for concentrated liquidity AMMs like Duality
